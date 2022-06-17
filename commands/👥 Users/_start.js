@@ -10,7 +10,7 @@ Hello user!
 
 You can /login as admin
 
-or start /message with admin.
+or start /message with S3 cell.
 
   ANSWER
   keyboard: 
