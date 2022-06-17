@@ -11,7 +11,7 @@ CMD*/
 
 tgid = options.tgid;
 
-msg = "Answer from admin: " + "\n" + message + "\n\n Reply again: /message";
+msg = "Answer from S3 cell: " + "\n" + message + "\n\n Reply again: /message";
 Bot.sendMessageToChatWithId(tgid, msg);
 
-Bot.sendMessage("Message was sended")
+Bot.sendMessage("Message was sent")
