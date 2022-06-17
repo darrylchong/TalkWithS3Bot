@@ -25,4 +25,4 @@ msg = "Message from: " + user_link +
 
 Bot.sendMessageToChatWithId(admin_chat, msg);
 
-Bot.sendMessage("Message was sent to admin");
+Bot.sendMessage("Message was sent to S3 cell");
