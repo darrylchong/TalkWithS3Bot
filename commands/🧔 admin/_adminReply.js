@@ -14,4 +14,4 @@ tgid = options.tgid;
 msg = "Answer from S3 cell: " + "\n" + message + "\n\n Reply again: /message";
 Bot.sendMessageToChatWithId(tgid, msg);
 
-Bot.sendMessage("Message was sent")
+Bot.sendMessage("Message was sent.")
